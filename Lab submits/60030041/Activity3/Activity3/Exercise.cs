@@ -22,7 +22,7 @@ static int Main()
         exo.ShowEmployee(fullName: "Somsri Jaiorn", gender: "F", employeeNumber: 84654);
 
         // เรียกใช้เมธอดโดยระบุชื่อพารามิเตอร์และไม่สนใจลำดับ พร้อมละ default parameter
-        exo.ShowEmployee(fullName: "Somsri Jaiorn", gender: "F", employeeNumber: 84654);
+        //exo.ShowEmployee(fullName: "Somsri Jaiorn", gender: "F", employeeNumber: 84654);
 
 
         System.Console.ReadKey();
